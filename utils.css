@@ -1,0 +1,35 @@
+.text-center{
+    text-align: center;
+    padding-top: 29px;
+    padding-bottom: 11px;
+}
+
+.bg-red{
+   height: 450;
+    
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+
+
+
+.flex{
+    display: flex;
+
+}
+
+.flex-col{
+    flex-direction: column;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.row-text{
+    font-size: 50px;
+    padding-top: 3px;
+}
